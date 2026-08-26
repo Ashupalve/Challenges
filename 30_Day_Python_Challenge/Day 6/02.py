@@ -2,6 +2,8 @@
 
 string =  input ("Enter a string ")
 
+string= string.lower()
+
 if (string==string[::-1]):
     print (string , "is palindrom")
 else:
