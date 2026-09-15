@@ -16,4 +16,3 @@ class Square(Shape):
 shapes = [Circle(5), Square(4)]
 for shape in shapes:
     print(f"{shape.__class__.__name__} area: {shape.area()}")
-    print(f"{shape.__class__.__name__} area: {shape.area()}")
