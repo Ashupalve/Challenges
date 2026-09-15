@@ -17,3 +17,4 @@ s.push(3)
 print("Peek:", s.peek())
 print("Pop:", s.pop())
 print("Remaining:", s.items)
+
