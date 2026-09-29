@@ -17,3 +17,5 @@ def is_magic_square(matrix):
     return True
 m = [[2, 7, 6], [9, 5, 1], [4, 3, 8]]
 print(is_magic_square(m))
+
+print("Thank you")
